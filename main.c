@@ -1,4 +1,4 @@
 #include <stdio.h>
 int main(){
-    printf("hi swe103 deneme");
+    printf("hi swe103 denqewqwsadasdawsdasdeme");
 }
